@@ -1,0 +1,14 @@
+Структура баг-репорта
+
+1. Номер бага - Bug №
+2. Название бага - Title 
+3. Серьезность бага - Severity (может быть trivial, minor, major,critical,blocer)
+4. Окружение - Environment
+5. Версия приложения - Application version
+6. Кто завел баг и на кого он назначен 
+7. Предусловия для воспоризведения - Precondition
+8. Шаги воспроизведения бага - Steps to reproduce
+9. Актуальный результат  - Actual result
+10. Ожидаемый результат - Expected result
+11. Приложения - Attachments
+12. Дата заведения бага - Bug date
